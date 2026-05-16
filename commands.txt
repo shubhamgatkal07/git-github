@@ -1,0 +1,23 @@
+ git init
+    ls -l
+    git status
+   ls -a
+   clear
+   git status
+   git add hello.sh
+    git status
+    clear
+    ls
+    cd git-github/
+    ls
+    git status
+    git rm --cached hello.sh
+    git status
+    git add hello.sh
+    git status
+    git commit -m "Adding hello file "
+    git status
+    ls
+    rm hello.sh
+   ls
+   git status
