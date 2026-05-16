@@ -21,3 +21,4 @@
     rm hello.sh
    ls
    git status
+we are adding some other command 
